@@ -3,7 +3,7 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 5,
+			"minor" : 3,
 			"revision" : 1,
 			"architecture" : "x64",
 			"modernui" : 1
@@ -103,7 +103,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 3,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -369,7 +369,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 852.545427560806274, 193.545451879501343, 261.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "actual::stationmeasurements[ $2 ]::stationname"
 				}
 
@@ -481,7 +480,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 3,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
@@ -838,11 +837,12 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-141",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 137.0, 35.0, 103.0, 20.0 ],
-					"text" : "get historical data"
+					"patching_rect" : [ 137.0, 35.0, 103.0, 33.0 ],
+					"text" : "get buienradar data"
 				}
 
 			}
@@ -1017,7 +1017,7 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
+							"minor" : 3,
 							"revision" : 1,
 							"architecture" : "x64",
 							"modernui" : 1
